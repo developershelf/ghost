@@ -1,5 +1,4 @@
 node_env: production
 loggingEnabled: true
 logDirectory: iisnode
-debuggerExtensionDll: iisnode-inspector.dll
 enableXFF: true
